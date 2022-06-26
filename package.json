@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.18",
+    "requests": "^0.3.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "description": ""
+}
