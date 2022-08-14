@@ -1,4 +1,4 @@
-# AKmovies
+# Weather App using Node
 
 ![App Screenshot](public/images/demo1.png)
 
